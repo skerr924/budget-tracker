@@ -2,7 +2,7 @@
 
 # Description
 
-This is a simple budget tracker which allows users to track their income and spending on a transaction-by-transaction basis, automatically calculating their remaining balance as new transactions are added.
+This is a simple budget tracker which allows users to track their income and spending on a transaction-by-transaction basis, automatically calculating their remaining balance as new transactions are added. This application is set up with a web manifest and a service worker to make it a fully functional PWA.
 
 # Table of Contents
 
