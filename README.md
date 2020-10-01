@@ -26,7 +26,7 @@ This application is designed to be simple and user-friendly.
 
 Home page: <img src = "public/assets/budgettracker-home.png">
 
-This application is deployed on Heroku and can be visited here:
+This application is deployed on Heroku and can be visited here: https://shielded-mesa-94533.herokuapp.com/
 
 <a name="lic"></a>
 
